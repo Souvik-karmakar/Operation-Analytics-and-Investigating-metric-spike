@@ -1,0 +1,469 @@
+week,device,event_count,unique_users,engagement_per_user
+2014-18,"acer aspire desktop",71,10,7.1000
+2014-18,"acer aspire notebook",215,21,10.2381
+2014-18,"amazon fire phone",84,4,21.0000
+2014-18,"asus chromebook",286,23,12.4348
+2014-18,"dell inspiron desktop",198,21,9.4286
+2014-18,"dell inspiron notebook",569,49,11.6122
+2014-18,"hp pavilion desktop",141,15,9.4000
+2014-18,"htc one",192,16,12.0000
+2014-18,"ipad air",358,30,11.9333
+2014-18,"ipad mini",229,21,10.9048
+2014-18,"iphone 4s",219,21,10.4286
+2014-18,"iphone 5",774,70,11.0571
+2014-18,"iphone 5s",512,45,11.3778
+2014-18,"kindle fire",64,6,10.6667
+2014-18,"lenovo thinkpad",858,90,9.5333
+2014-18,"mac mini",64,8,8.0000
+2014-18,"macbook air",538,57,9.4386
+2014-18,"macbook pro",1705,154,11.0714
+2014-18,"nexus 10",145,16,9.0625
+2014-18,"nexus 5",452,43,10.5116
+2014-18,"nexus 7",185,20,9.2500
+2014-18,"nokia lumia 635",137,19,7.2105
+2014-18,"samsumg galaxy tablet",71,8,8.8750
+2014-18,"samsung galaxy note",117,7,16.7143
+2014-18,"samsung galaxy s4",519,56,9.2679
+2014-18,"windows surface",87,10,8.7000
+2014-19,"acer aspire desktop",300,26,11.5385
+2014-19,"acer aspire notebook",386,34,11.3529
+2014-19,"amazon fire phone",179,9,19.8889
+2014-19,"asus chromebook",498,42,11.8571
+2014-19,"dell inspiron desktop",700,58,12.0690
+2014-19,"dell inspiron notebook",931,78,11.9359
+2014-19,"hp pavilion desktop",372,37,10.0541
+2014-19,"htc one",176,19,9.2632
+2014-19,"ipad air",537,52,10.3269
+2014-19,"ipad mini",296,29,10.2069
+2014-19,"iphone 4s",509,47,10.8298
+2014-19,"iphone 5",1336,114,11.7193
+2014-19,"iphone 5s",809,70,11.5571
+2014-19,"kindle fire",266,26,10.2308
+2014-19,"lenovo thinkpad",1828,155,11.7935
+2014-19,"mac mini",156,12,13.0000
+2014-19,"macbook air",1643,119,13.8067
+2014-19,"macbook pro",3405,248,13.7298
+2014-19,"nexus 10",372,30,12.4000
+2014-19,"nexus 5",937,73,12.8356
+2014-19,"nexus 7",274,29,9.4483
+2014-19,"nokia lumia 635",347,34,10.2059
+2014-19,"samsumg galaxy tablet",79,11,7.1818
+2014-19,"samsung galaxy note",143,15,9.5333
+2014-19,"samsung galaxy s4",1092,80,13.6500
+2014-19,"windows surface",121,10,12.1000
+2014-20,"acer aspire desktop",252,22,11.4545
+2014-20,"acer aspire notebook",399,40,9.9750
+2014-20,"amazon fire phone",149,12,12.4167
+2014-20,"asus chromebook",286,26,11.0000
+2014-20,"dell inspiron desktop",426,36,11.8333
+2014-20,"dell inspiron notebook",1197,82,14.5976
+2014-20,"hp pavilion desktop",390,40,9.7500
+2014-20,"htc one",307,32,9.5938
+2014-20,"ipad air",602,53,11.3585
+2014-20,"ipad mini",386,37,10.4324
+2014-20,"iphone 4s",506,40,12.6500
+2014-20,"iphone 5",1190,113,10.5310
+2014-20,"iphone 5s",986,77,12.8052
+2014-20,"kindle fire",257,20,12.8500
+2014-20,"lenovo thinkpad",2073,176,11.7784
+2014-20,"mac mini",260,19,13.6842
+2014-20,"macbook air",1312,110,11.9273
+2014-20,"macbook pro",3076,261,11.7854
+2014-20,"nexus 10",235,25,9.4000
+2014-20,"nexus 5",969,84,11.5357
+2014-20,"nexus 7",356,41,8.6829
+2014-20,"nokia lumia 635",215,22,9.7727
+2014-20,"samsumg galaxy tablet",66,6,11.0000
+2014-20,"samsung galaxy note",120,11,10.9091
+2014-20,"samsung galaxy s4",1046,90,11.6222
+2014-20,"windows surface",172,15,11.4667
+2014-21,"acer aspire desktop",228,23,9.9130
+2014-21,"acer aspire notebook",487,40,12.1750
+2014-21,"amazon fire phone",104,10,10.4000
+2014-21,"asus chromebook",467,39,11.9744
+2014-21,"dell inspiron desktop",516,52,9.9231
+2014-21,"dell inspiron notebook",998,84,11.8810
+2014-21,"hp pavilion desktop",302,31,9.7419
+2014-21,"htc one",341,27,12.6296
+2014-21,"ipad air",585,54,10.8333
+2014-21,"ipad mini",261,32,8.1563
+2014-21,"iphone 4s",613,56,10.9464
+2014-21,"iphone 5",1334,128,10.4219
+2014-21,"iphone 5s",994,75,13.2533
+2014-21,"kindle fire",211,22,9.5909
+2014-21,"lenovo thinkpad",2291,177,12.9435
+2014-21,"mac mini",270,25,10.8000
+2014-21,"macbook air",1498,119,12.5882
+2014-21,"macbook pro",3144,256,12.2813
+2014-21,"nexus 10",226,23,9.8261
+2014-21,"nexus 5",1254,99,12.6667
+2014-21,"nexus 7",346,31,11.1613
+2014-21,"nokia lumia 635",149,21,7.0952
+2014-21,"samsumg galaxy tablet",78,9,8.6667
+2014-21,"samsung galaxy note",168,18,9.3333
+2014-21,"samsung galaxy s4",1028,92,11.1739
+2014-21,"windows surface",174,19,9.1579
+2014-22,"acer aspire desktop",318,28,11.3571
+2014-22,"acer aspire notebook",480,47,10.2128
+2014-22,"amazon fire phone",26,4,6.5000
+2014-22,"asus chromebook",565,38,14.8684
+2014-22,"dell inspiron desktop",582,41,14.1951
+2014-22,"dell inspiron notebook",952,81,11.7531
+2014-22,"hp pavilion desktop",449,42,10.6905
+2014-22,"htc one",258,20,12.9000
+2014-22,"ipad air",437,51,8.5686
+2014-22,"ipad mini",319,25,12.7600
+2014-22,"iphone 4s",555,46,12.0652
+2014-22,"iphone 5",1627,136,11.9632
+2014-22,"iphone 5s",790,71,11.1268
+2014-22,"kindle fire",358,30,11.9333
+2014-22,"lenovo thinkpad",1897,164,11.5671
+2014-22,"mac mini",288,18,16.0000
+2014-22,"macbook air",1270,107,11.8692
+2014-22,"macbook pro",3011,244,12.3402
+2014-22,"nexus 10",264,24,11.0000
+2014-22,"nexus 5",1087,94,11.5638
+2014-22,"nexus 7",217,29,7.4828
+2014-22,"nokia lumia 635",201,25,8.0400
+2014-22,"samsumg galaxy tablet",66,6,11.0000
+2014-22,"samsung galaxy note",202,20,10.1000
+2014-22,"samsung galaxy s4",974,84,11.5952
+2014-22,"windows surface",186,17,10.9412
+2014-23,"acer aspire desktop",261,25,10.4400
+2014-23,"acer aspire notebook",407,39,10.4359
+2014-23,"amazon fire phone",48,5,9.6000
+2014-23,"asus chromebook",639,51,12.5294
+2014-23,"dell inspiron desktop",752,53,14.1887
+2014-23,"dell inspiron notebook",1120,91,12.3077
+2014-23,"hp pavilion desktop",380,38,10.0000
+2014-23,"htc one",325,24,13.5417
+2014-23,"ipad air",600,57,10.5263
+2014-23,"ipad mini",319,32,9.9688
+2014-23,"iphone 4s",455,41,11.0976
+2014-23,"iphone 5",1369,122,11.2213
+2014-23,"iphone 5s",942,71,13.2676
+2014-23,"kindle fire",279,21,13.2857
+2014-23,"lenovo thinkpad",1795,170,10.5588
+2014-23,"mac mini",282,24,11.7500
+2014-23,"macbook air",1774,145,12.2345
+2014-23,"macbook pro",3190,254,12.5591
+2014-23,"nexus 10",340,28,12.1429
+2014-23,"nexus 5",1184,95,12.4632
+2014-23,"nexus 7",438,44,9.9545
+2014-23,"nokia lumia 635",310,25,12.4000
+2014-23,"samsumg galaxy tablet",81,11,7.3636
+2014-23,"samsung galaxy note",285,19,15.0000
+2014-23,"samsung galaxy s4",1040,103,10.0971
+2014-23,"windows surface",190,15,12.6667
+2014-24,"acer aspire desktop",258,21,12.2857
+2014-24,"acer aspire notebook",474,43,11.0233
+2014-24,"amazon fire phone",193,16,12.0625
+2014-24,"asus chromebook",704,48,14.6667
+2014-24,"dell inspiron desktop",537,53,10.1321
+2014-24,"dell inspiron notebook",958,100,9.5800
+2014-24,"hp pavilion desktop",694,55,12.6182
+2014-24,"htc one",243,21,11.5714
+2014-24,"ipad air",422,42,10.0476
+2014-24,"ipad mini",262,32,8.1875
+2014-24,"iphone 4s",482,52,9.2692
+2014-24,"iphone 5",1760,151,11.6556
+2014-24,"iphone 5s",890,80,11.1250
+2014-24,"kindle fire",322,25,12.8800
+2014-24,"lenovo thinkpad",1904,176,10.8182
+2014-24,"mac mini",162,17,9.5294
+2014-24,"macbook air",1468,122,12.0328
+2014-24,"macbook pro",3059,259,11.8108
+2014-24,"nexus 10",513,43,11.9302
+2014-24,"nexus 5",1019,87,11.7126
+2014-24,"nexus 7",313,37,8.4595
+2014-24,"nokia lumia 635",301,31,9.7097
+2014-24,"samsumg galaxy tablet",90,14,6.4286
+2014-24,"samsung galaxy note",153,12,12.7500
+2014-24,"samsung galaxy s4",1059,95,11.1474
+2014-24,"windows surface",191,16,11.9375
+2014-25,"acer aspire desktop",279,23,12.1304
+2014-25,"acer aspire notebook",526,42,12.5238
+2014-25,"amazon fire phone",145,11,13.1818
+2014-25,"asus chromebook",442,41,10.7805
+2014-25,"dell inspiron desktop",682,57,11.9649
+2014-25,"dell inspiron notebook",1101,102,10.7941
+2014-25,"hp pavilion desktop",732,56,13.0714
+2014-25,"htc one",144,19,7.5789
+2014-25,"ipad air",633,58,10.9138
+2014-25,"ipad mini",315,38,8.2895
+2014-25,"iphone 4s",606,52,11.6538
+2014-25,"iphone 5",1520,143,10.6294
+2014-25,"iphone 5s",950,78,12.1795
+2014-25,"kindle fire",240,25,9.6000
+2014-25,"lenovo thinkpad",1854,164,11.3049
+2014-25,"mac mini",306,29,10.5517
+2014-25,"macbook air",1697,149,11.3893
+2014-25,"macbook pro",3081,251,12.2749
+2014-25,"nexus 10",373,38,9.8158
+2014-25,"nexus 5",1156,85,13.6000
+2014-25,"nexus 7",431,47,9.1702
+2014-25,"nokia lumia 635",455,32,14.2188
+2014-25,"samsumg galaxy tablet",104,11,9.4545
+2014-25,"samsung galaxy note",236,19,12.4211
+2014-25,"samsung galaxy s4",963,102,9.4412
+2014-25,"windows surface",227,21,10.8095
+2014-26,"acer aspire desktop",278,29,9.5862
+2014-26,"acer aspire notebook",599,44,13.6136
+2014-26,"amazon fire phone",125,12,10.4167
+2014-26,"asus chromebook",461,40,11.5250
+2014-26,"dell inspiron desktop",682,53,12.8679
+2014-26,"dell inspiron notebook",1233,108,11.4167
+2014-26,"hp pavilion desktop",552,50,11.0400
+2014-26,"htc one",276,20,13.8000
+2014-26,"ipad air",646,57,11.3333
+2014-26,"ipad mini",245,31,7.9032
+2014-26,"iphone 4s",481,39,12.3333
+2014-26,"iphone 5",1639,134,12.2313
+2014-26,"iphone 5s",989,80,12.3625
+2014-26,"kindle fire",206,24,8.5833
+2014-26,"lenovo thinkpad",2176,196,11.1020
+2014-26,"mac mini",243,22,11.0455
+2014-26,"macbook air",1309,119,11.0000
+2014-26,"macbook pro",3054,276,11.0652
+2014-26,"nexus 10",273,30,9.1000
+2014-26,"nexus 5",935,90,10.3889
+2014-26,"nexus 7",543,49,11.0816
+2014-26,"nokia lumia 635",475,37,12.8378
+2014-26,"samsumg galaxy tablet",172,12,14.3333
+2014-26,"samsung galaxy note",134,14,9.5714
+2014-26,"samsung galaxy s4",1135,100,11.3500
+2014-26,"windows surface",208,19,10.9474
+2014-27,"acer aspire desktop",308,28,11.0000
+2014-27,"acer aspire notebook",327,35,9.3429
+2014-27,"amazon fire phone",137,13,10.5385
+2014-27,"asus chromebook",609,47,12.9574
+2014-27,"dell inspiron desktop",642,59,10.8814
+2014-27,"dell inspiron notebook",1073,90,11.9222
+2014-27,"hp pavilion desktop",537,47,11.4255
+2014-27,"htc one",226,23,9.8261
+2014-27,"ipad air",573,55,10.4182
+2014-27,"ipad mini",463,41,11.2927
+2014-27,"iphone 4s",470,49,9.5918
+2014-27,"iphone 5",1673,150,11.1533
+2014-27,"iphone 5s",1060,92,11.5217
+2014-27,"kindle fire",277,26,10.6538
+2014-27,"lenovo thinkpad",2173,188,11.5585
+2014-27,"mac mini",134,11,12.1818
+2014-27,"macbook air",1499,134,11.1866
+2014-27,"macbook pro",3300,259,12.7413
+2014-27,"nexus 10",269,29,9.2759
+2014-27,"nexus 5",928,86,10.7907
+2014-27,"nexus 7",438,45,9.7333
+2014-27,"nokia lumia 635",463,41,11.2927
+2014-27,"samsumg galaxy tablet",127,12,10.5833
+2014-27,"samsung galaxy note",101,10,10.1000
+2014-27,"samsung galaxy s4",1141,114,10.0088
+2014-27,"windows surface",210,22,9.5455
+2014-28,"acer aspire desktop",326,29,11.2414
+2014-28,"acer aspire notebook",605,47,12.8723
+2014-28,"amazon fire phone",109,10,10.9000
+2014-28,"asus chromebook",528,52,10.1538
+2014-28,"dell inspiron desktop",569,52,10.9423
+2014-28,"dell inspiron notebook",1014,91,11.1429
+2014-28,"hp pavilion desktop",596,56,10.6429
+2014-28,"htc one",242,28,8.6429
+2014-28,"ipad air",509,57,8.9298
+2014-28,"ipad mini",350,35,10.0000
+2014-28,"iphone 4s",759,68,11.1618
+2014-28,"iphone 5",1866,159,11.7358
+2014-28,"iphone 5s",940,79,11.8987
+2014-28,"kindle fire",268,25,10.7200
+2014-28,"lenovo thinkpad",2263,195,11.6051
+2014-28,"mac mini",177,15,11.8000
+2014-28,"macbook air",1648,140,11.7714
+2014-28,"macbook pro",3559,301,11.8239
+2014-28,"nexus 10",327,38,8.6053
+2014-28,"nexus 5",1050,83,12.6506
+2014-28,"nexus 7",386,41,9.4146
+2014-28,"nokia lumia 635",306,31,9.8710
+2014-28,"samsumg galaxy tablet",165,15,11.0000
+2014-28,"samsung galaxy note",130,14,9.2857
+2014-28,"samsung galaxy s4",1191,119,10.0084
+2014-28,"windows surface",305,31,9.8387
+2014-29,"acer aspire desktop",268,27,9.9259
+2014-29,"acer aspire notebook",590,50,11.8000
+2014-29,"amazon fire phone",52,6,8.6667
+2014-29,"asus chromebook",547,51,10.7255
+2014-29,"dell inspiron desktop",736,55,13.3818
+2014-29,"dell inspiron notebook",1172,100,11.7200
+2014-29,"hp pavilion desktop",636,55,11.5636
+2014-29,"htc one",304,26,11.6923
+2014-29,"ipad air",557,55,10.1273
+2014-29,"ipad mini",365,34,10.7353
+2014-29,"iphone 4s",770,58,13.2759
+2014-29,"iphone 5",1643,148,11.1014
+2014-29,"iphone 5s",1041,93,11.1935
+2014-29,"kindle fire",329,29,11.3448
+2014-29,"lenovo thinkpad",2616,220,11.8909
+2014-29,"mac mini",381,28,13.6071
+2014-29,"macbook air",1674,145,11.5448
+2014-29,"macbook pro",3498,295,11.8576
+2014-29,"nexus 10",255,28,9.1071
+2014-29,"nexus 5",894,83,10.7711
+2014-29,"nexus 7",348,39,8.9231
+2014-29,"nokia lumia 635",438,34,12.8824
+2014-29,"samsumg galaxy tablet",86,9,9.5556
+2014-29,"samsung galaxy note",120,10,12.0000
+2014-29,"samsung galaxy s4",1309,120,10.9083
+2014-29,"windows surface",309,33,9.3636
+2014-30,"acer aspire desktop",231,29,7.9655
+2014-30,"acer aspire notebook",539,52,10.3654
+2014-30,"amazon fire phone",94,12,7.8333
+2014-30,"asus chromebook",570,47,12.1277
+2014-30,"dell inspiron desktop",570,52,10.9615
+2014-30,"dell inspiron notebook",1218,114,10.6842
+2014-30,"hp pavilion desktop",751,57,13.1754
+2014-30,"htc one",242,32,7.5625
+2014-30,"ipad air",614,50,12.2800
+2014-30,"ipad mini",374,36,10.3889
+2014-30,"iphone 4s",653,61,10.7049
+2014-30,"iphone 5",1609,147,10.9456
+2014-30,"iphone 5s",969,92,10.5326
+2014-30,"kindle fire",296,36,8.2222
+2014-30,"lenovo thinkpad",2449,209,11.7177
+2014-30,"mac mini",293,28,10.4643
+2014-30,"macbook air",1749,146,11.9795
+2014-30,"macbook pro",3184,291,10.9416
+2014-30,"nexus 10",263,25,10.5200
+2014-30,"nexus 5",867,81,10.7037
+2014-30,"nexus 7",411,43,9.5581
+2014-30,"nokia lumia 635",440,42,10.4762
+2014-30,"samsumg galaxy tablet",121,13,9.3077
+2014-30,"samsung galaxy note",175,17,10.2941
+2014-30,"samsung galaxy s4",1408,117,12.0342
+2014-30,"windows surface",270,28,9.6429
+2014-31,"acer aspire desktop",408,32,12.7500
+2014-31,"acer aspire notebook",662,62,10.6774
+2014-31,"amazon fire phone",185,12,15.4167
+2014-31,"asus chromebook",494,56,8.8214
+2014-31,"dell inspiron desktop",709,53,13.3774
+2014-31,"dell inspiron notebook",1483,125,11.8640
+2014-31,"hp pavilion desktop",439,39,11.2564
+2014-31,"htc one",301,30,10.0333
+2014-31,"ipad air",699,70,9.9857
+2014-31,"ipad mini",389,34,11.4412
+2014-31,"iphone 4s",754,63,11.9683
+2014-31,"iphone 5",1572,151,10.4106
+2014-31,"iphone 5s",1180,100,11.8000
+2014-31,"kindle fire",239,24,9.9583
+2014-31,"lenovo thinkpad",2648,208,12.7308
+2014-31,"mac mini",320,23,13.9130
+2014-31,"macbook air",1731,156,11.0962
+2014-31,"macbook pro",3584,317,11.3060
+2014-31,"nexus 10",327,35,9.3429
+2014-31,"nexus 5",960,81,11.8519
+2014-31,"nexus 7",598,60,9.9667
+2014-31,"nokia lumia 635",354,33,10.7273
+2014-31,"samsumg galaxy tablet",142,9,15.7778
+2014-31,"samsung galaxy note",145,15,9.6667
+2014-31,"samsung galaxy s4",1201,104,11.5481
+2014-31,"windows surface",182,18,10.1111
+2014-32,"acer aspire desktop",370,31,11.9355
+2014-32,"acer aspire notebook",554,56,9.8929
+2014-32,"amazon fire phone",147,14,10.5000
+2014-32,"asus chromebook",677,59,11.4746
+2014-32,"dell inspiron desktop",432,42,10.2857
+2014-32,"dell inspiron notebook",1262,111,11.3694
+2014-32,"hp pavilion desktop",621,52,11.9423
+2014-32,"htc one",113,13,8.6923
+2014-32,"ipad air",574,53,10.8302
+2014-32,"ipad mini",213,23,9.2609
+2014-32,"iphone 4s",567,52,10.9038
+2014-32,"iphone 5",1503,133,11.3008
+2014-32,"iphone 5s",691,71,9.7324
+2014-32,"kindle fire",131,14,9.3571
+2014-32,"lenovo thinkpad",2057,196,10.4949
+2014-32,"mac mini",233,24,9.7083
+2014-32,"macbook air",1563,143,10.9301
+2014-32,"macbook pro",3660,317,11.5457
+2014-32,"nexus 10",235,19,12.3684
+2014-32,"nexus 5",682,65,10.4923
+2014-32,"nexus 7",434,39,11.1282
+2014-32,"nokia lumia 635",333,30,11.1000
+2014-32,"samsumg galaxy tablet",78,7,11.1429
+2014-32,"samsung galaxy note",100,14,7.1429
+2014-32,"samsung galaxy s4",1094,99,11.0505
+2014-32,"windows surface",206,18,11.4444
+2014-33,"acer aspire desktop",377,37,10.1892
+2014-33,"acer aspire notebook",604,56,10.7857
+2014-33,"amazon fire phone",163,12,13.5833
+2014-33,"asus chromebook",590,61,9.6721
+2014-33,"dell inspiron desktop",558,57,9.7895
+2014-33,"dell inspiron notebook",1215,101,12.0297
+2014-33,"hp pavilion desktop",575,51,11.2745
+2014-33,"htc one",149,18,8.2778
+2014-33,"ipad air",442,45,9.8222
+2014-33,"ipad mini",270,31,8.7097
+2014-33,"iphone 4s",346,35,9.8857
+2014-33,"iphone 5",1314,119,11.0420
+2014-33,"iphone 5s",724,65,11.1385
+2014-33,"kindle fire",71,12,5.9167
+2014-33,"lenovo thinkpad",1980,177,11.1864
+2014-33,"mac mini",127,21,6.0476
+2014-33,"macbook air",1307,124,10.5403
+2014-33,"macbook pro",3366,307,10.9642
+2014-33,"nexus 10",353,31,11.3871
+2014-33,"nexus 5",682,66,10.3333
+2014-33,"nexus 7",212,24,8.8333
+2014-33,"nokia lumia 635",326,26,12.5385
+2014-33,"samsumg galaxy tablet",80,6,13.3333
+2014-33,"samsung galaxy note",114,12,9.5000
+2014-33,"samsung galaxy s4",831,85,9.7765
+2014-33,"windows surface",86,10,8.6000
+2014-34,"acer aspire desktop",362,36,10.0556
+2014-34,"acer aspire notebook",482,45,10.7111
+2014-34,"amazon fire phone",117,14,8.3571
+2014-34,"asus chromebook",616,48,12.8333
+2014-34,"dell inspiron desktop",398,35,11.3714
+2014-34,"dell inspiron notebook",1086,111,9.7838
+2014-34,"hp pavilion desktop",355,34,10.4412
+2014-34,"htc one",152,19,8.0000
+2014-34,"ipad air",385,39,9.8718
+2014-34,"ipad mini",268,27,9.9259
+2014-34,"iphone 4s",367,34,10.7941
+2014-34,"iphone 5",1197,105,11.4000
+2014-34,"iphone 5s",755,69,10.9420
+2014-34,"kindle fire",124,14,8.8571
+2014-34,"lenovo thinkpad",2160,190,11.3684
+2014-34,"mac mini",338,32,10.5625
+2014-34,"macbook air",1660,134,12.3881
+2014-34,"macbook pro",3240,308,10.5195
+2014-34,"nexus 10",148,22,6.7273
+2014-34,"nexus 5",655,71,9.2254
+2014-34,"nexus 7",267,29,9.2069
+2014-34,"nokia lumia 635",210,27,7.7778
+2014-34,"samsumg galaxy tablet",88,12,7.3333
+2014-34,"samsung galaxy note",131,13,10.0769
+2014-34,"samsung galaxy s4",726,76,9.5526
+2014-34,"windows surface",130,14,9.2857
+2014-35,"acer aspire desktop",278,30,9.2667
+2014-35,"acer aspire notebook",594,63,9.4286
+2014-35,"amazon fire phone",111,11,10.0909
+2014-35,"asus chromebook",563,48,11.7292
+2014-35,"dell inspiron desktop",452,48,9.4167
+2014-35,"dell inspiron notebook",1087,104,10.4519
+2014-35,"hp pavilion desktop",359,37,9.7027
+2014-35,"htc one",285,26,10.9615
+2014-35,"ipad air",296,36,8.2222
+2014-35,"ipad mini",267,25,10.6800
+2014-35,"iphone 4s",503,50,10.0600
+2014-35,"iphone 5",957,100,9.5700
+2014-35,"iphone 5s",707,68,10.3971
+2014-35,"kindle fire",152,15,10.1333
+2014-35,"lenovo thinkpad",1956,186,10.5161
+2014-35,"mac mini",420,29,14.4828
+2014-35,"macbook air",1446,135,10.7111
+2014-35,"macbook pro",3179,290,10.9621
+2014-35,"nexus 10",221,23,9.6087
+2014-35,"nexus 5",791,67,11.8060
+2014-35,"nexus 7",343,31,11.0645
+2014-35,"nokia lumia 635",152,17,8.9412
+2014-35,"samsumg galaxy tablet",117,13,9.0000
+2014-35,"samsung galaxy note",103,13,7.9231
+2014-35,"samsung galaxy s4",896,89,10.0674
+2014-35,"windows surface",197,20,9.8500
